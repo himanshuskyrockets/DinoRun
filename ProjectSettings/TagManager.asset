@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LAst drop
+    uniqueID: 1171649033
+    locked: 0
+  - name: BackDrop
+    uniqueID: 2886632435
+    locked: 0
+  - name: midDrop
+    uniqueID: 1902254323
+    locked: 0
+  - name: FirstDrop
+    uniqueID: 3068334211
+    locked: 0
+  - name: Foreground
+    uniqueID: 3805347081
+    locked: 0
+  - name: Main Player
+    uniqueID: 679202201
+    locked: 0
