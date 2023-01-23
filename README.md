@@ -20,6 +20,12 @@ In DinoRun Trex-Cartoon, players control a cartoon dinosaur as it runs through a
 # Support
 If you have any issues or questions about DinoRun Trex-Cartoon, open an issue on the Github repository.
 
+# Credits:
+We would like to extend our gratitude to the  creators for the assets used in DinoRun Trex-Cartoon.
+
+The use of these assets has greatly contributed to the success of DinoRun Trex-Cartoon, and we are deeply appreciative of the hard work and dedication of these creators.
+
+
 **************************************************************
 # We hope you enjoy playing DinoRun Trex-Cartoon!
 ***************************************************************
