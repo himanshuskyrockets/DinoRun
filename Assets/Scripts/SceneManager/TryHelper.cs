@@ -5,8 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class TryHelper : MonoBehaviour
 {
-    public void Retry(){
+    public void LoadScene(){
 
          SceneManager.LoadScene("Game");
     }
-}
+    public void Quit(){
+        Application.Quit();
+        Debug.Log("Quit");
+    }
+    
+}//class
