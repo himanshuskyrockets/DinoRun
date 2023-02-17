@@ -27,5 +27,5 @@ The use of these assets has greatly contributed to the success of DinoRun Trex-C
 
 
 **************************************************************
-# We hope you enjoy playing DinoRun Trex-Cartoon!
+# [We hope you enjoy playing DinoRun Trex-Cartoon!](https://github.com/sponsors/himanshuskyrockets/)
 ***************************************************************
