@@ -13,9 +13,10 @@ In DinoRun Trex-Cartoon, players control a cartoon dinosaur as it runs through a
 - Endless gameplay
 
 # Glimpes
+![image](https://user-images.githubusercontent.com/84278213/214001227-97f2dfc0-3527-4b63-9631-900193390c3b.png)
 ![image](https://user-images.githubusercontent.com/84278213/214000968-8c57db65-a5ef-4658-acb2-778b28522beb.png)
 ![image](https://user-images.githubusercontent.com/84278213/214001065-2f354a7f-4674-4392-b423-cf0448eb2368.png)
-![image](https://user-images.githubusercontent.com/84278213/214001227-97f2dfc0-3527-4b63-9631-900193390c3b.png)
+
 
 # Support
 If you have any issues or questions about DinoRun Trex-Cartoon, open an issue on the Github repository.
@@ -28,6 +29,6 @@ The use of these assets has greatly contributed to the success of DinoRun Trex-C
 
 
 **************************************************************
-# [We hope you enjoy playing DinoRun Trex-Cartoon!](https://github.com/sponsors/himanshuskyrockets/)
+# [We hope you enjoy☺ playing🎮 DinoRun Trex-Cartoon!](https://github.com/sponsors/himanshuskyrockets/)
 ***************************************************************
 </div>
